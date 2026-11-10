@@ -254,6 +254,10 @@ Skill folders and format, checked November 2026:
 - [Gemini CLI: creating agent skills](https://geminicli.com/docs/cli/creating-skills/)
 - [Cursor: agent skills](https://cursor.com/docs/context/skills)
 
+## License
+
+[MIT](LICENSE). You're free to use, copy, change and share these skills, including in commercial work, as long as you keep the copyright notice.
+
 ## Disclaimer
 
 These skills are guidance for working carefully with store consoles. They are not legal, tax or policy advice. Store policies and requirements change; always confirm against the current official Google Play and Apple documentation.
